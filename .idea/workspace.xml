@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ed42781-d6f0-44a4-8078-49aa4f17db99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/Airbnb2Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/configuration/JwtFilterChain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/configuration/ServiceConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/BookingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/CountryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/FavouriteController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/PropertyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/PropertyUserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/ReviewController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Booking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Favourite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Property.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/PropertyUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/excepton/ExceptionResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/excepton/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/externalservices/PdfService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/BookingDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/FavouriteDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/PropertyDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/PropertyUserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/ReviewDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/BookingRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/CountryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/FavouriteRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/LocationRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/PropertyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/PropertyUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/ReviewRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/BookingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/FavouriteService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/PropertyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/PropertyUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/ReviewService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/BookingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/FavouritrServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/JwtService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/PropertyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/PropertyUserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/ReviewServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/Airbnb2/Airbnb2ApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="Interface" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9168a45a-6667-4175-9bc2-6fa60a9ff833" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ix4g2fZJhdDND8YG9B5I1FGTyb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Airbnb2Application.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Airbnb2/Airbnb2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.Airbnb2.payload" />
+      <recent name="com.example.Airbnb2.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Airbnb2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Airbnb2.Airbnb2Application" />
+      <module name="Airbnb2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Airbnb2.externalservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Airbnb2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed42781-d6f0-44a4-8078-49aa4f17db99" name="Changes" comment="" />
+      <created>1720419002175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720419002175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/Airbnb2/service/impl/PropertyServiceImpl.java</url>
+          <line>35</line>
+          <properties class="com.example.Airbnb2.service.impl.PropertyServiceImpl" method="createProperty">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
