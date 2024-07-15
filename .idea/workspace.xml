@@ -5,62 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ed42781-d6f0-44a4-8078-49aa4f17db99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/Airbnb2Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/configuration/JwtFilterChain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/configuration/ServiceConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/BookingController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/CountryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/FavouriteController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/PropertyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/PropertyUserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/controller/ReviewController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Booking.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Country.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Favourite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Location.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Property.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/PropertyUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/entity/Review.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/excepton/ExceptionResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/excepton/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/externalservices/PdfService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/BookingDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/FavouriteDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/PropertyDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/PropertyUserDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/ReviewDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/payload/Token.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/BookingRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/CountryRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/FavouriteRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/LocationRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/PropertyRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/PropertyUserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/repository/ReviewRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/BookingService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/FavouriteService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/PropertyService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/PropertyUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/ReviewService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/BookingServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/FavouritrServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/JwtService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/PropertyServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/PropertyUserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/Airbnb2/service/impl/ReviewServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/Airbnb2/Airbnb2ApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
